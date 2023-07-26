@@ -242,7 +242,7 @@ const projects = [
   },
   {
     id: "project-4",
-    name: "Engie Impact ( Internal )",
+    name: "Engie Impact",
     description: `Internal tools for engie impact suchs energy game, energy cost and analysis.`,
     tags: [
       {
@@ -264,9 +264,9 @@ const projects = [
   },
   {
     id: "project-5",
-    name: "Concentrix: Google",
+    name: "Concentrix",
     description:
-      "Internal tools for concentrix google account such as TITO system, categorizer and etc.",
+      "Google Internal tools for concentrix google account such as TITO system, categorizer and etc.",
     tags: [
       {
         name: "Google script",
