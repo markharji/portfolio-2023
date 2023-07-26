@@ -42,11 +42,11 @@ const Hero = () => {
             >
               Hi, I'm{" "}
               <span
-                className="sm:text-battleGray sm:text-[90px] 
+                className="sm:text-battleGray sm:text-[110px] 
                 text-eerieBlack text-[50px] font-mova
                 font-extrabold uppercase"
               >
-                MARKHARJI
+                MARK
               </span>
             </h1>
             <p className={`${styles.heroSubText} mt-2 text-eerieBlack`}>
